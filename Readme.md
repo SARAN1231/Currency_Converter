@@ -28,7 +28,7 @@ A javascript app providing real-time exchange rate information to help users con
 
 ### Screenshots
 
-![Currency Converter](https://raw.githubusercontent.com/refinedguides/currency-converter/main/screenshot.png)
+![Currency Converter](https://github.com/SARAN1231/Currency_Converter/blob/main/Screenshot%202025-03-23%20204221.png)
 
 ### Support Me
 
