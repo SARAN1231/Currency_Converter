@@ -30,8 +30,4 @@ A javascript app providing real-time exchange rate information to help users con
 
 ![Currency Converter](https://github.com/SARAN1231/Currency_Converter/blob/main/Screenshot%202025-03-23%20204221.png)
 
-### Support Me
 
-If you'd like to support me, consider buying me a coffee. Thanks!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/refinedguides)
